@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">A bioengineer graduate who is passionate about bioinformatics and data science</h3>
 
-- 🔭 I’m currently working on **practicing to improve my skills**
+- 🔭 I’m currently working on **practicing my skills**
 
 - 🌱 I’m currently learning **Python, SQL and various bioinformatics tools**
 
